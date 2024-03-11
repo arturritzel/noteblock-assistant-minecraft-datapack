@@ -11,3 +11,5 @@ usage:
     - (places 2 noteblocks, with the notes 12 and 14, and a repeater with delay 1)
   - /function assistant:patterns/create5 {delay: 2, note1: 22, note2: 12, note3: 8, note4: 4, note5: 9}
     - (respective notes. repeater with delay 2)
+  - /function assistant:patterns/create0 {delay: 4}
+    - (no notes. repeater with delay 4. used for timing purposes)
