@@ -5,7 +5,7 @@ usage:
 
 - install it as a datapack in your world
 
-- use the pattern<x> function to place ´x´ noteblocks.
+- use the pattern<x> function to place *x* noteblocks.
 - example uses:
   - /function assistant:patterns/create2 {delay: 1, note1: 12, note2: 14}
     - (places 2 noteblocks, with the notes 12 and 14, and a repeater with delay 1)
