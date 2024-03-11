@@ -3,8 +3,10 @@ minecraft datapack used for noteblock placing using pre-determined patterns
 
 usage:
 
-- install it as a datapack in your world
+- install it as a datapack in your world;
 
+- look to the direction you want the noteblocks to be placed;
+  
 - use the pattern<x> function to place *x* noteblocks.
 - example uses:
   - /function assistant:patterns/create2 {delay: 1, note1: 12, note2: 14}
